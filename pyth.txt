@@ -1,5 +1,6 @@
 def addd(a,b):
     c=a+b
+    a=c+b
     print(c)
 a=int(input())
 b=int(input())
