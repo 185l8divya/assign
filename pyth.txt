@@ -1,7 +1,7 @@
 def addd(a,b):
     c=a+b
-    a=c+b
-    print(c)
+    print("Sum:",c)
+>>>>>>> master
 a=int(input())
 b=int(input())
 addd(a,b)
